@@ -3,7 +3,6 @@ package ru.yandex.practicum.contacts.presentation.filter.model;
 import androidx.annotation.NonNull;
 
 import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
-import ru.yandex.practicum.contacts.presentation.main.ContactUi;
 
 public class FilterContactTypeUi implements ListDiffInterface <FilterContactTypeUi> {
 
